@@ -1,0 +1,10 @@
+
+*/.idea/
+*/JavaDoc/
+*.class
+*.iml
+*/lib/*
+*/bin/*
+*/out/*
+*/ivy/*
+*/build/*
